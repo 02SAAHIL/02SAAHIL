@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SAAHIL
-- 👀 I’m interested in Artificial Intellligence and Machine Learning.
-- 🌱 I’m currently learning Python and Web Development.
-- 💞️ I’m looking to collaborate on Web Development.
+- 👀 I’m interested in Data Engineering, Artificial Intelligence and Machine Learning.
+- 🌱 I’m currently learning a lot of things.
+- 💞️ I’m looking to collaborate on Data Engineering.
 - 📫 How to reach me : You can contact me on my email-id : 02saahil@gmail.com
 
 <!---
